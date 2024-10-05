@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github.io/RickMorty/static/css/main.8ce7d686.css",
-    "main.js": "/github.io/RickMorty/static/js/main.52dd6673.js",
-    "static/media/bg.png": "/github.io/RickMorty/static/media/bg.06ce765d880125980868.png",
-    "static/media/fuente.ttf": "/github.io/RickMorty/static/media/fuente.c3d1dfc692e3547fed16.ttf",
-    "static/media/logo.png": "/github.io/RickMorty/static/media/logo.54f4c8c083130120bf1f.png",
-    "index.html": "/github.io/RickMorty/index.html",
-    "main.8ce7d686.css.map": "/github.io/RickMorty/static/css/main.8ce7d686.css.map",
-    "main.52dd6673.js.map": "/github.io/RickMorty/static/js/main.52dd6673.js.map"
+    "main.css": "/RickMorty/static/css/main.dbeebbf3.css",
+    "main.js": "/RickMorty/static/js/main.eacbe99a.js",
+    "static/media/bg.png": "/RickMorty/static/media/bg.06ce765d880125980868.png",
+    "static/media/fuente.ttf": "/RickMorty/static/media/fuente.c3d1dfc692e3547fed16.ttf",
+    "static/media/logo.png": "/RickMorty/static/media/logo.54f4c8c083130120bf1f.png",
+    "index.html": "/RickMorty/index.html",
+    "main.dbeebbf3.css.map": "/RickMorty/static/css/main.dbeebbf3.css.map",
+    "main.eacbe99a.js.map": "/RickMorty/static/js/main.eacbe99a.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ce7d686.css",
-    "static/js/main.52dd6673.js"
+    "static/css/main.dbeebbf3.css",
+    "static/js/main.eacbe99a.js"
   ]
 }
